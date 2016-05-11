@@ -1,0 +1,38 @@
+
+
+.social_icons_footer_holder > span:last-child{margin: 0 0 14px !important;}
+
+div.ppt {  opacity: 0 !important; }
+
+.c-whiter {
+color: #fff;
+}
+
+.gallery_holder ul li .gallery_hover {
+background-color: #EDD382;
+}
+
+.gallery_holder ul li .gallery_hover i:hover {
+background-color: #fff;
+}
+
+.gallery_holder ul li .gallery_hover i {
+color: #EDD382 ;
+}
+
+
+.top-logo {
+padding-left:130px;
+text-align: center;
+    display: block;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 9999;
+    background-color: #fff;
+    height: 70px;
+}
+
+aside.vertical_menu_area  {
+top: 70px;
+}
